@@ -1,0 +1,32 @@
+body{
+    width: 1920px;
+    height: auto;
+}
+header{
+    width: 1920px;
+    height: 100px;
+    background-color: #FFD9D4;
+}
+header h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+main{
+    width: 1920px;
+    height: auto;
+    background-color: #D7EFF5;
+}
+.card{
+    background-color: rgb(235, 220, 187);
+}
+main h5 h6 p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+footer{
+    background-color: #CAB8DE;
+}
+footer h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}

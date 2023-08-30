@@ -1,0 +1,86 @@
+[
+    {
+        "precio": 300,
+        "id": 1,
+        "title": "Aristóteles - Metafísica",
+        "editor": "Gredos",
+        "thumbnailUrl":"https://shiranaisaito.000webhostapp.com/Adaptativo/examen/iloveimg-resized/1.jpg"
+    },
+    {
+        "precio": 950,
+        "id": 2,
+        "title": "Platón - Obras Completas",
+        "editor": "Oxford University Press",
+        "thumbnailUrl":"https://shiranaisaito.000webhostapp.com/Adaptativo/examen/iloveimg-resized/2.jpg"
+    },
+    {
+        "precio": 1200,
+        "id": 3,
+        "title": "Plotino - obras completas",
+        "editor": "Oxford University Press",
+        "thumbnailUrl":"https://shiranaisaito.000webhostapp.com/Adaptativo/examen/iloveimg-resized/3.jpg"
+    },
+    {
+        "precio": 600,
+        "id": 4,
+        "title": "San Agustín - Ciudad de Dios",
+        "editor": "Cambridge University Press",
+        "thumbnailUrl":"https://shiranaisaito.000webhostapp.com/Adaptativo/examen/iloveimg-resized/4.jpg"
+    },
+    {
+        "precio": 850,
+        "id": 5,
+        "title": "Ibn Khaldun - Muqaddimah",
+        "editor": "Harper & Collins Publishers",
+        "thumbnailUrl":"https://shiranaisaito.000webhostapp.com/Adaptativo/examen/iloveimg-resized/5.jpg"
+    },
+    {
+        "precio": 300,
+        "id": 6,
+        "title": "Descartes - Meditaciones sobre la primer filosofía",
+        "editor": "Harper & Collins Publishers",
+        "thumbnailUrl":"https://shiranaisaito.000webhostapp.com/Adaptativo/examen/iloveimg-resized/6.jpg"
+    },
+    {
+        "precio": 185,
+        "id": 7,
+        "title": "Spinoza - Ética demostrada según el orden geométrico",
+        "editor": "Fondo de Cultura Económica",
+        "thumbnailUrl":"https://shiranaisaito.000webhostapp.com/Adaptativo/examen/iloveimg-resized/7.jpg"
+    },
+    {
+        "precio": 450,
+        "id": 8,
+        "title": "Kant - Critica de la razón pura",
+        "editor": "Univesïtat der Leipzig",
+        "thumbnailUrl":"https://shiranaisaito.000webhostapp.com/Adaptativo/examen/iloveimg-resized/8.jpg"
+    },
+    {
+        "precio": 380,
+        "id": 9,
+        "title": "Hegel - Fenomenología del espíritu",
+        "editor": "Univesïtat der Berlin",
+        "thumbnailUrl":"https://shiranaisaito.000webhostapp.com/Adaptativo/examen/iloveimg-resized/9.jpg"
+    },
+    {
+        "precio": 250,
+        "id": 10,
+        "title": "Nietzsche - Así hablaba Zarathustra",
+        "editor": "Univesïtat der Leipzig",
+        "thumbnailUrl":"https://shiranaisaito.000webhostapp.com/Adaptativo/examen/iloveimg-resized/10.jpg"
+    },
+    {
+        "precio": 520,
+        "id": 11,
+        "title": "Heidegger - Ser y Tiempo",
+        "editor": "Univesïtat der Berlin",
+        "thumbnailUrl":"https://shiranaisaito.000webhostapp.com/Adaptativo/examen/iloveimg-resized/11.jpg"
+    },
+    {
+        "precio": 280,
+        "id": 12,
+        "title": "Foucalt - Historia de la sexualidad",
+        "editor": "Berkeley Univesity Press",
+        "thumbnailUrl":"https://shiranaisaito.000webhostapp.com/Adaptativo/examen/iloveimg-resized/12.jpg"
+    }
+]
